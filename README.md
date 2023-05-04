@@ -27,6 +27,9 @@ Cosine similarity is a mathematical technique that measures the similarity betwe
 TF-IDF vectorizer is used to convert song into a vector representation that can be used to compute similarity scores between songs.
 TF-IDF vectorizer is a powerful tool for music recommendation as it allows for a quantitative analysis of the songs and can help identify songs with similar themes and subject matter.
 
+![Screenshot (1)](https://user-images.githubusercontent.com/116078614/236270153-818caa83-71c8-440f-9ee4-4167ac7c299e.png)
+
+
 
 # 2.Recommendation system based on k-means clustering 
 
