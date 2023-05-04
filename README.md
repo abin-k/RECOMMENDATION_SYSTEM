@@ -18,8 +18,9 @@ Revenue: Song recommendation systems can lead to increased revenue for music str
 
 User satisfaction: Song recommendation systems can improve user satisfaction by reducing the amount of time users spend searching for music, and instead providing them with a personalized and enjoyable listening experience.
 
-## 1.Recommendation system based on cosine similarity
-Developed a Music recommendation systems using cosine similarity. 
+
+# 1.Recommendation system based on cosine similarity
+Developed a content based Music recommendation systems based on cosine similarity and TF-IDF vectorizer. 
 
 Cosine similarity is a mathematical technique that measures the similarity between two vectors. In the context of music recommendation, cosine similarity can be used to compare a user's listening history with the music in a database and generate recommendations based on the similarity between the user's listening history and the music in the database.
 
@@ -27,5 +28,5 @@ TF-IDF vectorizer is used to convert song into a vector representation that can 
 TF-IDF vectorizer is a powerful tool for music recommendation as it allows for a quantitative analysis of the songs and can help identify songs with similar themes and subject matter.
 
 
-## 2.Recommendation system based on k-means clustering 
+# 2.Recommendation system based on k-means clustering 
 
