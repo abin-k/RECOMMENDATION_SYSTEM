@@ -31,5 +31,7 @@ TF-IDF vectorizer is a powerful tool for music recommendation as it allows for a
 
 
 
+
 # 2.Recommendation system based on k-means clustering 
+![Screenshot (38)](https://user-images.githubusercontent.com/116078614/236272761-c84bbaab-5fc5-4c53-896c-779d37de9e38.png)
 
