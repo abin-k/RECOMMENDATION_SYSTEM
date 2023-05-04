@@ -28,7 +28,7 @@ TF-IDF vectorizer is used to convert song into a vector representation that can 
 TF-IDF vectorizer is a powerful tool for music recommendation as it allows for a quantitative analysis of the songs and can help identify songs with similar themes and subject matter.
 
 ![Screenshot (1)](https://user-images.githubusercontent.com/116078614/236270153-818caa83-71c8-440f-9ee4-4167ac7c299e.png)
-
+The features which were extracted for the model are SONG NAME, ARTIST NAME & GENERE. The model will recomment new songs based on this features of previous song
 
 
 
