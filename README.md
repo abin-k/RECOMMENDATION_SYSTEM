@@ -35,8 +35,8 @@ The features which are extracted for the model training are SONG NAME, ARTIST NA
 
 # 2.Recommendation system based on k-means clustering 
 Developed a Music recommendation systems based on k-means clustering, an unsupervised clustring methode. 
-Here all the other features of song such as Tempo, Energy,Chord, Acousticness, Loudness, Streams etc are considered in training the model
-
+ Here all the other features of song such as Tempo, Energy,Chord, Acousticness, Loudness, Streams etc are considered in training the model.
+ The predicted song will have these similar features as the referral song
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/116078614/236272761-c84bbaab-5fc5-4c53-896c-779d37de9e38.png)
 
